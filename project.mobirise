@@ -35,7 +35,7 @@
     "uniqCompNum": 8,
     "versionPublish": "4.8.8",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/23031588-1606718856052167-885530903974490714-n-128x111.png",
     "noImageResize": ""
   },
   "pages": {
